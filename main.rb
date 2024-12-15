@@ -39,8 +39,6 @@ class KonwerterWalut
     ASCII
     puts ""
 
-    puts Rainbow("& Stworzone przez Michała Zalite i Filipa Kokoszka").color(:red).bright
-    puts ""
     puts Rainbow("Aby wpisać liczby z częścią dziesiętną, użyj kropki zamiast przecinka, np. 3514.75.").color(:green).bright
     puts ""
     puts "Legenda:"
